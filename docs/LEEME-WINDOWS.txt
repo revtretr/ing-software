@@ -1,0 +1,24 @@
+PANADERIA - APLICACION PORTABLE PARA WINDOWS 64 BITS
+
+1. Extrae el ZIP completo a una carpeta.
+2. Entra en la carpeta Panaderia.
+3. Abre Panaderia.exe.
+
+Java ya esta incluido. Conserva las carpetas app y runtime junto al EXE.
+
+CUENTAS INICIALES
+Administrador: admin    / Admin123
+Empleado:      empleado / Empleado123
+Cajero:        cajero   / Cajero123
+
+PRUEBA RAPIDA
+Entra como empleado, crea un pedido y envialo a caja.
+Cierra sesion y entra como cajero: confirma el pedido y registra el pago.
+Cierra sesion y entra como administrador: consulta el reporte de ventas.
+
+Los datos se guardan automaticamente en:
+%USERPROFILE%\.panaderia-app\panaderia.dat
+
+La aplicacion trabaja localmente en un equipo, con una sesion a la vez.
+Para editar el codigo en IntelliJ IDEA, utiliza Panaderia-IntelliJ.zip.
+En ese proyecto encontraras README.md con todas las instrucciones.

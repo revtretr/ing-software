@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Panaderia" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="pe.panaderia.Main" />
+    <module name="panaderia" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>
